@@ -3,8 +3,8 @@
 <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
 <div align="center">
   <a href="https://github.com/KaylaineFragoso">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaylaineFragoso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>!
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaylaineFragoso&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaylaineFragoso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>!
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaylaineFragoso&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
  <div style="display: inline_block" align="center">
