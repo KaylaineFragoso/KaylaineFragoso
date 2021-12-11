@@ -1,4 +1,4 @@
-### Hi there, bem vindes ao meu GitHub
+### Hi there, bem vinde ao meu GitHub
 <div align="center">
   <a href="https://github.com/KaylaineFragoso">
     
